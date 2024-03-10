@@ -28,10 +28,9 @@ twitter_username: Musashino_JM
 github_username:  MusashinoJM
 
 # Build settings
-remote_theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
