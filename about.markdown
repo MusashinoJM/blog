@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[DA3G](https://twitter.com/Musashino_JM)の個人用ブログです。すいません。Jekyllの使い方がまだ分からずブログとして使い始めるまでもう少し時間がかかりそうです。
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
