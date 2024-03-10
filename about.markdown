@@ -4,17 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[DA3G](https://twitter.com/Musashino_JM)の個人用ブログです。すいません。Jekyllの使い方がまだ分からずブログとして使い始めるまでもう少し時間がかかりそうです。
+[DA3G](https://twitter.com/Musashino_JM)の個人用ブログです。乗車記・忘備録・日常の事とか適当に書いていこうと思います。よろしくお願いします。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+当blogに関するお問い合わせは[TwitterのDM](https://www.twitter.com/messages/compose?recipient_id=1590981672245555200)よりお願いします。
