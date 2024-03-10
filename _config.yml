@@ -28,7 +28,7 @@ twitter_username: Musashino_JM
 github_username:  MusashinoJM
 
 # Build settings
-theme: jekyll-theme-slate
+theme: slate
 plugins:
   - jekyll-feed
 
