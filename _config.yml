@@ -21,7 +21,7 @@
 title: yellow sound blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DA3Gの個人用ブログです。乗車記とか忘備録とかを書こうと思います。すいませんが、Jekyllに慣れてなくてまだ記事を書けそうにないです。もう少しお持ちください。
+  DA3Gの個人用ブログです。乗車記とか忘備録とかを書こうと思います。
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://MusashinoJM.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Musashino_JM
