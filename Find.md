@@ -1,6 +1,6 @@
 ---
 layout: page
-title: article
-permalink: /article/
+title: Find
+permalink: /find/
 ---
 カテゴリー別に投稿を探せるようにしておこうと思います。
